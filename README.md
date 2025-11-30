@@ -12,7 +12,13 @@ Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 **Tech Stack**
 
-HTML / CSS / SASS / JS / NODE JS / WCAG / MYSQL / APACHE / CGI / UNIX / LINUX / GIT / SVN / CVS / RCS / PHP / PERL / SCHEMA / COMAL / COBAL / BASIC / PASCAL / FORTRAN / C
+Currently:
+
+WordPress Themes, WordPress Plugins, Accessibility, HTML, CSS, SASS, PHP, JS, NODE JS, MYSQL, Apache, GIT
+
+In ancient times also:
+
+CGI / UNIX / LINUX /  SVN / CVS / RCS / PERL / SCHEMA / COMAL / COBAL / BASIC / PASCAL / FORTRAN / C
 
 **Motto** 
 
