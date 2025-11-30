@@ -10,17 +10,17 @@ Friedrich-Alexander-Universität Erlangen-Nürnberg
 - 🔭 I’m always looking for goods ideas and projects to make the world a better place
 
 
-**Tech Stack**
+## Tech Stack
 
-Currently:
+**Currently:**
 
 WordPress Themes, WordPress Plugins, Accessibility, HTML, CSS, SASS, PHP, JS, NODE JS, MYSQL, Apache, GIT
 
-In ancient times also:
+**In ancient times also:**
 
-CGI / UNIX / LINUX /  SVN / CVS / RCS / PERL / SCHEMA / COMAL / COBAL / BASIC / PASCAL / FORTRAN / C
+CGI, UNIX, Linux, SVN, CVS, RCS, Perl, SCHEMA, COMAL, COBAL, BASIC, PASCAL, FORTRAN, C
 
-**Motto** 
+## Motto
 
 > Wat mutt, dat mutt!
 
