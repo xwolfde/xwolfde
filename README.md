@@ -11,4 +11,10 @@ Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 
 **Tech Stack**
-HTML, CSS, SASS, JS, NODE JS, WCAG, MYSQL, APACHE, CGI, UNIX, LINUX, GIT, SVN, PHP, PERL, SCHEMA, COMAL, COBAL, BASIC, PASCAL, FORTRAN, C
+
+HTML / CSS / SASS / JS / NODE JS / WCAG / MYSQL / APACHE / CGI / UNIX / LINUX / GIT / SVN / CVS / RCS / PHP / PERL / SCHEMA / COMAL / COBAL / BASIC / PASCAL / FORTRAN / C
+
+**Motto** 
+
+> Wat mutt, dat mutt!
+
